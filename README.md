@@ -16,3 +16,4 @@
 ![Mobile](screenshots/mobile2.jpg)
 
 ## Demo havolasi:
+https://ashokhruzbek.github.io/click-intern **https://click-intern.vercel.app/**

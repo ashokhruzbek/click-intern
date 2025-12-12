@@ -1,16 +1,18 @@
 # Mini Marketplace
 
 ## Ism:
-Shoxruzbek Abduraxmonov Azizbek o'g'li
+**Shoxruzbek Abduraxmonov Azizbek o'g'li**
 
-## Vazifa qancha vaqt oldi:
-40 minut
+## Vazifa qancha vaqt oldi: 
+**40 Minut**
 
 ## Qiyin bo'lgan joylar:
-Vanilla JS va React o'rtasida ma'lumotlarni almashish biroz qiyin bo'ldi. window.addToCart funksiyasini global qilish kerak edi, boshida tushunmadim. localStorage dan ma'lumot o'qishda JSON.parse ishlatishni unutib qoldim, xatolik chiqdi keyin tuzatdim.
+**Vanilla JS va React o'rtasida ma'lumotlarni almashish biroz qiyin bo'ldi. window.addToCart funksiyasini global qilish kerak edi, boshida tushunmadim. localStorage dan ma'lumot o'qishda JSON.parse ishlatishni unutib qoldim, xatolik chiqdi keyin tuzatdim.**
 
 ## Interfeys skrinshotlari:
-![Desktop](./screenshots/desktop.png)
-![Mobile](./screenshots/mobile.png)
+![Desktop](screenshots/desktop-hover.jpg)
+![Desktop](screenshots/desktop.jpg)
+![Mobile](screenshots/mobile.jpg)
+![Mobile](screenshots/mobile2.jpg)
 
 ## Demo havolasi:

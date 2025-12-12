@@ -15,5 +15,4 @@
 ![Mobile](screenshots/mobile.jpg)
 ![Mobile](screenshots/mobile2.jpg)
 
-## Demo havolasi:
-https://ashokhruzbek.github.io/click-intern **https://click-intern.vercel.app/**
+## Demo havolasi: **https://click-intern.vercel.app/**
